@@ -1,5 +1,7 @@
 # obs-lua-httpd
 
+***Godot 4.3 added single threaded web export making this project obsolete***
+
 A very minimal webserver as an OBS plugin in Lua.
 
 Specifically we provide cross-origin isolation headers to
